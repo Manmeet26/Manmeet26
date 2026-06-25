@@ -87,18 +87,6 @@ AWS • Docker • Jenkins • Git
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manmeet26&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Manmeet26&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📫 Connect
 
 - LinkedIn
