@@ -5,8 +5,9 @@ Software Engineer • AI Engineer • Backend Developer
 </h3>
 
 <p align="center">
-I enjoy building intelligent software systems that combine AI, backend engineering, and scalable web technologies.
-Currently working on AI-powered applications, Retrieval-Augmented Generation (RAG), backend APIs, and workflow automation.
+I enjoy solving real-world problems through software and believe that curiosity is one of an engineer's greatest strengths. What excites me is understanding the problem, choosing the right approach, and building solutions that are reliable, scalable, and genuinely useful.
+
+I'm looking for opportunities to learn, contribute, and collaborate. When I'm not coding, you'll usually find me playing chess ♟️.
 </p>
 
 ---
@@ -89,7 +90,7 @@ AWS • Docker • Jenkins • Git
 
 ## 📫 Connect
 
-- LinkedIn
+- LinkedIn: https://www.linkedin.com/in/manmeet-kaur-phagurah-965b8818a/
 - Email: manmeetkaurphagurah@gmail.com
 
 ---
